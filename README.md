@@ -1,1 +1,9 @@
 # -Secure-OTP-Login-
+
+How delightful! This piece of code generates a random OTP (One-Time Password) and prompts the user to enter their username. It then displays a friendly greeting, along with the generated OTP for the user to use during login.
+
+
+After that, the code asks the user to input the OTP for verification. If the entered OTP matches the generated OTP, it prints "Successfully Login!" as a confirmation. However, if the entered OTP doesn't match, it prints "Failed to login."
+
+
+Overall, it's a simple and straightforward way to implement an OTP-based login system. Just make sure to handle the secure storage and validation of OTPs in a proper and secure manner.
